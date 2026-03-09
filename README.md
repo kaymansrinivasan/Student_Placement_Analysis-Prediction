@@ -38,3 +38,6 @@ Future Improvements
 Deploy model using FastAPI
 Build a web interface for predictions
 Improve feature engineering
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/678013af-e62b-41dc-8e3c-e60fb75f5d1d" />
+<img width="1418" height="894" alt="image" src="https://github.com/user-attachments/assets/f064859c-8232-431c-82be-276bd8a6f3d5" />
+
