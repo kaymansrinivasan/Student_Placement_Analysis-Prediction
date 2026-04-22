@@ -1,8 +1,6 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-fastapi
-uvicorn
-joblib
+Python 3.11
+Pandas
+NumPy
+Seaborn
+Matplotlib
+Scikit-learn
